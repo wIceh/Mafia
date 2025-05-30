@@ -1,5 +1,6 @@
-name: test-module
+name: Mafia
 version: '${version}'
-main: me.wiceh.test.server.TestModuleLoader
+main: me.wiceh.mafia.server.MafiaLoader
 api-version: '1.21'
-depend: [Oxygen]
+commands:
+  mafia:

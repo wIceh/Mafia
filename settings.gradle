@@ -1,4 +1,4 @@
-rootProject.name = 'test-module'
+rootProject.name = 'Mafia'
 
 include 'plugin'
 include 'api'
